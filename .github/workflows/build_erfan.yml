@@ -5,7 +5,7 @@ on: [push]
 env:
   ROM_URL: https://mirrorbits.lineageos.org/full/zangyapro/20201222/lineage-16.0-20201222-nightly-zangyapro-signed.zip
   ROM_NAME: Generic
-  ZIP_NAME: Vos3_aris_pro_leeminh
+  ZIP_NAME: Vos3_active_
   TZ: Asia/Kolkata
 jobs:
   build:
